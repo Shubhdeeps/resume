@@ -1,0 +1,31 @@
+{
+  "name": "resumebuilder",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.12.3",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.7",
+    "image-to-base64": "^2.2.0",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-font": "^1.2.1",
+    "react-lottie": "^1.2.3",
+    "react-to-print": "^2.14.3",
+    "react-window": "^1.8.6",
+    "webfontloader": "^1.6.28",
+    "zustand": "^3.6.9"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
